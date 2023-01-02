@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://mataoseeker.github.io/csb-x4e9qb/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://mataoseeker.github.io/csb-x4e9qb/static/js/main.664eb959.chunk.js",
+    "main.js.map": "https://mataoseeker.github.io/csb-x4e9qb/static/js/main.664eb959.chunk.js.map",
+    "runtime-main.js": "https://mataoseeker.github.io/csb-x4e9qb/static/js/runtime-main.108a2133.js",
+    "runtime-main.js.map": "https://mataoseeker.github.io/csb-x4e9qb/static/js/runtime-main.108a2133.js.map",
+    "static/js/2.1a802b5c.chunk.js": "https://mataoseeker.github.io/csb-x4e9qb/static/js/2.1a802b5c.chunk.js",
+    "static/js/2.1a802b5c.chunk.js.map": "https://mataoseeker.github.io/csb-x4e9qb/static/js/2.1a802b5c.chunk.js.map",
+    "index.html": "https://mataoseeker.github.io/csb-x4e9qb/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://mataoseeker.github.io/csb-x4e9qb/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.1a802b5c.chunk.js.LICENSE.txt": "https://mataoseeker.github.io/csb-x4e9qb/static/js/2.1a802b5c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.108a2133.js",
+    "static/js/2.1a802b5c.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.664eb959.chunk.js"
+  ]
+}
